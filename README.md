@@ -9,7 +9,7 @@
 ```
 ### API Endpoints
 - #### /register (POST)
-<img src="https://github.com/EtorojahOkon/auth/.github/images/register.png" alt="Register screenshot"/>
+<img src="https://github.com/EtorojahOkon/auth/blob/production/.github/images/register.PNG" alt="Register screenshot"/>
 **Parameters:**
 <table>
   <thead>
